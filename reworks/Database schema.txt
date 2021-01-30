@@ -1,0 +1,8 @@
+create database hospital;
+
+create table doctor
+(
+	doc_id int primary key AUTO_INCREMENT,
+	doc_username varchar2(15) not null,
+	doc_password varchar2(15) not null 
+)

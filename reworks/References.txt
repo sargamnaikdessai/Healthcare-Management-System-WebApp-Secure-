@@ -1,0 +1,15 @@
+httpssuperuser.comquestions281573what-are-the-best-options-to-use-when-compressing-files-using-7-zip
+
+7z a -t7z -m0=lzma -mx=9 -mfb=64 -mmf=bt4 -md=32m -ms=on archive.7z video.mp4
+
+https://stackoverflow.com/questions/12942436/how-to-get-folder-directory-from-html-input-type-file-or-any-other-way
+
+https://fahmidasclassroom.com/how-to-upload-folder-using-html-and-php/
+
+https://stackoverflow.com/questions/5481487/how-to-use-lzma-sdk-to-compress-decompress-in-java
+
+https://www.youtube.com/watch?v=c-SDbITS_R4
+
+https://www.androidhive.info/2012/05/how-to-connect-android-with-php-mysql/
+
+https://www.codexworld.com/add-remove-input-fields-dynamically-using-jquery/
